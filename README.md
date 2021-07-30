@@ -5,7 +5,7 @@ Built a web page from scratch themed after my hometown Los Angeles. In this proj
 I created different buttons representing  tabs and a button that pops up a modal window when pressed. The user can close the modal window by either clicking outside the modal window's screen, pressing the escape ('Esc') key, or pressing the exit ('X') button.
 The exit ('X') button was imported from Bootstrap.
 
-This project was created to practice DOM manipulation. 
+This project was created for fun and, most importantly, to practice DOM manipulation  
 
 # Languages/tools used:
 * JavaScript
