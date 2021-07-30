@@ -7,7 +7,7 @@ The exit ('X') button was imported from Bootstrap.
 
 This project was created to practice DOM manipulation. 
 
-#Languages/tools used:
+# Languages/tools used:
 * JavaScript
 * CSS
 * HTML
