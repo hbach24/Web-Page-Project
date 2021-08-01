@@ -13,3 +13,5 @@ This project was created for fun and, most importantly, to practice DOM manipula
 * CSS
 * HTML
 * Bootstrap (used for the style/design of the web page and buttons)
+
+![web page project gif](https://user-images.githubusercontent.com/57569284/127786135-674b59bf-cbd2-4c7c-b6af-26650a9673d1.gif)
